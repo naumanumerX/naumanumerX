@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **React Redux Blog**
 
 
-- 💬 Ask me about **React // MongoDB**
+- 💬 Ask me about **{React && MongoDB}**
 
 - 📫 How to reach me **naumanumer10@outlook.com**
 
