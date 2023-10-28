@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/naumanumer1" target="blank"><img src="https://img.shields.io/twitter/follow/naumanumer1?logo=twitter&style=for-the-badge" alt="naumanumer1" /></a> </p>
 
-- 🔭 I’m currently working on **CRUD.Operation-React**
+- 🔭 I’m currently working on **React Redux Blog**
 
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React // MongoDB**
 
 - 📫 How to reach me **naumanumer10@outlook.com**
 
