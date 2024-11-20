@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/naumanumer1" target="blank"><img src="https://img.shields.io/twitter/follow/naumanumer1?logo=twitter&style=for-the-badge" alt="naumanumer1" /></a> </p>
 
-- 🔭 I’m currently working on **Chess Using Paste Image URL**
+- 🔭 I’m currently working on **Paste Image URL**
 
 
 - 💬 Ask me about **{MERN Stack}**
